@@ -1,0 +1,26 @@
+{
+  "name": "primer1",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.6.0",
+    "autoprefixer": "^10.2.4",
+    "bootstrap": "^5.0.0-beta1",
+    "css-loader": "^5.0.1",
+    "node-sass": "^5.0.0",
+    "sass": "^1.32.6",
+    "sass-loader": "^10.1.1",
+    "style-loader": "^2.0.0"
+  }
+}
