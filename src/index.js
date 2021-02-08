@@ -36,7 +36,7 @@ setTimeout(function () {
       if (timeleft === 0) {
         location.reload();
       } else {
-        countdown.innerHTML = `<span class="countdown">${timeleft}</span> seconds remaining`;
+        countdown.innerHTML = `${timeleft} seconds remaining`;
       }
       timeleft -= 1;
     }, 1000);
