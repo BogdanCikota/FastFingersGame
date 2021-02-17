@@ -6,7 +6,7 @@ let countdown = document.querySelector('.countdown');
 let timer;
 const playAgain = document.querySelector('.play-again');
 
-const word = 'posao';
+const word = 'HELLO';
 const arr = word.split('');
 
 const letters = document.querySelectorAll('.letter');
