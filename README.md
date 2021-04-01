@@ -13,5 +13,3 @@ Technologies:
 -SASS
 
 -Bootstrap
-
-This site is responsive.
